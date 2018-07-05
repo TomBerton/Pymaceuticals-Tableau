@@ -10,7 +10,7 @@ The goal of this project was to analyze drug treatment on tumor volume, metastas
 
 ### Data retrieval and cleaning.
 
-  The initial analysis was performed in with with Pandas in Jupyter Notebook in the repo [Pymaceuticals](https://github.com/TomBerton/Pymaceuticals). In this analysis I used the original csv files to create this [Tableau visualizations](https://public.tableau.com/profile/thomas.berton#!/vizhome/PseudoPharmaceuticalAnalysis/ChemotherapyonMetatasisandSurvival).
+  The initial analysis was performed in with with Pandas in Jupyter Notebook in the repo [Pymaceuticals](https://github.com/TomBerton/Pymaceuticals,target="_blank"). In this analysis I used the original csv files to create this [Tableau visualizations](https://public.tableau.com/profile/thomas.berton#!/vizhome/PseudoPharmaceuticalAnalysis/ChemotherapyonMetatasisandSurvival,target="_blank").
 ## Summary
 1.	After 45 days of chemotherapy, Capomulin and Ramicane were more effective at reducing tumor volume by 19.5% and 22.3%, respectively. 
 
